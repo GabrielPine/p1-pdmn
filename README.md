@@ -1,3 +1,9 @@
+# **Grupo:**
+## Gabriel Martins - 2040482223001
+## Gabriel Pinheiro - 2040482223038
+## Luan Mendes - 20240482223039
+## Marcos Vinicius - 2040282223003
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
