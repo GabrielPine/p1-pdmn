@@ -1,16 +1,17 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import TarefaEntrada from './TarefaEntrada'
 
-const App = () => {
+function App() {
   return (
-    <div className='container p-4 mt-2'>
-        <div className='row justify-content-center'>
-            <div className='col-sm-12 col-md-8 text-center'>
-                <h1>Hello, tarefas</h1>
-            </div>
+    <div className="container">
+      <div className="row">
+        <div className="col text-center mt-3">
+          <TarefaEntrada />
         </div>
+      </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
